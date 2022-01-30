@@ -1,0 +1,22 @@
+{
+  "name": "better-vsts-npm-auth-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankajmt/better-vsts-npm-auth-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pankajmt/better-vsts-npm-auth-test/issues"
+  },
+  "homepage": "https://github.com/pankajmt/better-vsts-npm-auth-test#readme",
+  "dependencies": {
+    "better-vsts-npm-auth": "^5.0.1"
+  }
+}
